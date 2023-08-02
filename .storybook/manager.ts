@@ -1,6 +1,6 @@
 import { addons } from "@storybook/manager-api";
-import zeta from './zetaTheme';
+import design from './designTheme';
 
 addons.setConfig({
-	theme: zeta,
+	theme: design,
 });
